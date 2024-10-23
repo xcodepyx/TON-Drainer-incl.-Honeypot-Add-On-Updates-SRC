@@ -24,7 +24,9 @@ Telegram Bot notifications. Bot sends notification for successfully connected or
 
 ****KEY FEATURES****
 
-**⚙️ Supported assets:**!
+$\color{red}{\textsf{Supported assets}}$
+
+**⚙️ Supported assets:**
 
 Able to drain tokens, (called jettons), NFTs, phone numbers, domains, and usernames.
 

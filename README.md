@@ -1,4 +1,4 @@
-# TON-Drainer-incl.-Honeypot-Add-On-Updates-SRC
+# TON Drainer incl Honeypot Add On Updates SRC
 Most advanced TON Drainer incl. ProxyHoneypot, SilentTransfer &amp; Updates. Drains all assets in one go. Full source code.
   
 Here you have the opportunity to purchase the most advanced TON Drainer on the market. You will receive the complete source code, extensive instructions, direct contact to the developer if you have any questions, and free updates for the future. The TON drainer is able to extract tokens, NFTs, phone numbers, domains, and usernames from wallets. Compatible with all wallets supporting WalletConnect, including Tonkeeper, Tonhub, OpenMask, and TonWallet, ensuring maximum flexibility and compatibility. The TON Drainer comes with a JettonProxyHoneypot, which makes your victims believe they are receiving Jettons (TON tokens). This makes the TON Drainer very conversion strong. Look at the screenshots.

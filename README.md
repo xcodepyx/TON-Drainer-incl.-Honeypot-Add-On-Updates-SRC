@@ -24,7 +24,10 @@ Telegram Bot notifications. Bot sends notification for successfully connected or
 
 ****KEY FEATURES****
 
-$\color{green}{\textsf{⚙️ Supported assets:}}$$\LARGE
+$\color{green}{\textsf{⚙️ Supported assets:}}$
+
+$\color{red}{\texttt{lorem ipsum}}$
+
 
 
 **⚙️ Supported assets:**

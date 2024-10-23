@@ -26,7 +26,7 @@ Telegram Bot notifications. Bot sends notification for successfully connected or
 
 $\color{green}{\textsf{⚙️ Supported assets:}}$
 
-$\color{red}{\texttt{lorem ipsum}}$
+$\color{red}{\textbf{lorem ipsum}}$
 
 
 

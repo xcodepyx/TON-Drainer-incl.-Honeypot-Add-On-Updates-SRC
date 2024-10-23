@@ -60,7 +60,7 @@ $\color{Orange}{\textsf{⚙️ Integration and API:}}$
 Offers powerful tools for developers, including API (REST/WebSocket) and a client library for Vue. This makes the integrating of functionality into websites or other projects quick and easy.
 
 
-$\color{blue}{\textsf{**WHAT DO YOU GET?**:}}$
+$\color{Magenta}{\textsf{WHAT DO YOU GET?:}}$
 
 
 📦 TON Drainer source code
@@ -76,7 +76,7 @@ $\color{blue}{\textsf{**WHAT DO YOU GET?**:}}$
 📦 Telegram announcement & update channel
 
 
-$\color{blue}{\textsf{WHAT ELSE DO YOU NEED?:}}$
+$\color{Magenta}{\textsf{WHAT ELSE DO YOU NEED?:}}$
 
 
 📦 Domain

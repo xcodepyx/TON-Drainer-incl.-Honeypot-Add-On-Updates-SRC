@@ -5,14 +5,16 @@ Here you have the opportunity to purchase the most advanced TON Drainer on the m
   
 ![234234234](https://github.com/user-attachments/assets/53614eb6-cb32-4cde-9391-9d907078c5eb)
 
-**Screenshot 1:**
+$\color{Green}{\textsf{Screenshot 1:}}$
+
 
 The JettonProxyHoneypot. Most efficient and most convincing if only TON tokens are drained without jettons or NFTs. If the victim clicks on "Confirm" the TON token will be completely drained.
 
 
 ![4234](https://github.com/user-attachments/assets/b0d6939c-a779-41c0-bb2e-0fe60a43dae6)
 
-**Screenshot 2:**
+$\color{Green}{\textsf{Screenshot 2:}}$
+
 
 Telegram Bot notifications. Bot sends notification for successfully connected or drained wallets.
 
@@ -24,41 +26,36 @@ Telegram Bot notifications. Bot sends notification for successfully connected or
 
 ****KEY FEATURES****
 
-$\color{green}{\textsf{⚙️ Supported assets:}}$
-
-$\color{red}{\mathbf{lorem ipsum}}$
-
-
-
-**⚙️ Supported assets:**
+$\color{Orange}{\textsf{⚙️ Supported assets:}}$
 
 Able to drain tokens, (called jettons), NFTs, phone numbers, domains, and usernames.
 
-**⚙️ Instant asset withdrawal:**
+$\color{Orange}{\textsf{⚙️ Instant asset withdrawal:}}$
 
 Allows the instant withdrawal of all assets from a wallet (in 1 go) to another address within the TON network. Using the JettonProxyHoneypot, the Drainer creates the illusion of a token transaction in favor of the victim, which appears as a legitimate transaction, while the actual asset remain secure.
 
-**⚙️ Automatic transaction initiation:**
+$\color{Orange}{\textsf{⚙️ Automatic transaction initiation:}}$
+
 
 Once the wallet is connected, the TON drainer automatically initiates the withdrawal process (transfer request), eliminating the need for any further user action.
 
-**⚙️ Smart asset sorting:**
+$\color{Orange}{\textsf{⚙️ Smart asset sorting:}}$
 
 The system automatically sorts tokens, NFTs, phone numbers, domains, and usernames by their value in USD, starting with the most valuable. TON token is reserved in advance to cover transaction fees.
 
-**⚙️ Supported wallets:**
+$\color{Orange}{\textsf{⚙️ Supported wallets:}}$
 
 Compatible with all wallets supporting WalletConnect, including Tonkeeper, Tonhub, OpenMask, and TonWallet, ensuring maximum flexibility and compatibility.
 
-**⚙️ Telegram notifications:**
+$\color{Orange}{\textsf{⚙️ Telegram notifications:}}$
 
 Integration with Telegram allows instant notifications for all actions and transactions via a bot, providing complete control and real-time monitoring.
 
-**⚙️ Support for log separation by domains:**
+$\color{Orange}{\textsf{⚙️ Support for log separation by domains:}}$
 
 Supports separating log chats by domain, making it easier to track and manage transactions for different projects and clients.
 
-**⚙️ Integration and API:**
+$\color{Orange}{\textsf{⚙️ Integration and API:}}$
 
 Offers powerful tools for developers, including API (REST/WebSocket) and a client library for Vue. This makes the integrating of functionality into websites or other projects quick and easy.
 
